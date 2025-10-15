@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to ChmyrSimpleBank accounts related QA APIs "
+  contactDetails:
+    name: "Anhelina Zhukova - QA Lead"
+    email: "zhukova@Gmail.com"
+  onCallSupport:
+    - (666) 265-3765
+    - (666) 734-8371

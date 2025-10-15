@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to ChmySimpleBank cards related QA APIs "
+  contactDetails:
+    name: "Anhelina Zhukova - QA Lead"
+    email: "zhukova@gmail.com"
+  onCallSupport:
+    - (310) 875-4367
+    - (201) 236-1267

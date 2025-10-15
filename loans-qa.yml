@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to ChmyrSimpleBank loans related QA APIs "
+  contactDetails:
+    name: "Anhelina Zhukova - QA Lead"
+    email: "zhukova@gmail.com"
+  onCallSupport:
+    - (785) 545-6565
+    - (853) 546-3467
