@@ -1,1 +1,1 @@
-"# chmyr-simple-bank-config"
+chmyr-simple-bank-config
