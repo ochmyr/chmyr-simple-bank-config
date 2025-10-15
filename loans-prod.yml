@@ -2,10 +2,11 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to ChmyrSimpleBank loans related prod APIs"
+  message: "Welcome to ChmyrSimpleBank loans related production APIs"
   contact-details:
     name: "Alex - Product Owner"
     email: "alex@gmail.com"
   onCallSupport:
     - (723) 656-8709
+
     - (156) 342-0956
