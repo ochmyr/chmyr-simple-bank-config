@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to ChmyrSimpleBank accounts related docker APIs "
+  message: "Welcome to ChmyrSimpleBank accounts related local APIs "
   contactDetails:
     name: "Oleksandr Chmyr - Developer"
     email: "oleksandr.chmyr.dev@gmail.com"
